@@ -1,9 +1,9 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'walled',
   author: 'Bot',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '917023951514', //Your number
+  botName: "walled bot",
+  botOwner: 'Professor', // AFG KING
+  ownerNumber: '923125788968', //923125788968
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   description: "This is a bot for managing group commands and automating tasks.",
